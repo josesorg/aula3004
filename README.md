@@ -1,3 +1,3 @@
 # aula3004
 
-Um Case foi feito junto com o professor e o outro Case foi feito como atividade.
+Um Case1 foi feito junto com o professor e o outro Case2 foi feito como atividade.
